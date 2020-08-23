@@ -1,3 +1,5 @@
 # Customer-Relation-Management-CRM-Application
 
-https://shoryacrm-cli.herokuapp.com/
+This is a simple customer Relation Management Application.
+
+Click here to follow -->  https://shoryacrm-cli.herokuapp.com/
